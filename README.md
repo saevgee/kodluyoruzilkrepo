@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Ödev ekran görüntüsü](gorsel.png)
+![Ödev ekran görüntüsü](gorsel/gorsel.png)
