@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Ödev ekran görüntüsü](https://imgur.com/a/1PB84Dj)
+![Ödev ekran görüntüsü](https://ibb.co/dbwNYQ9)
